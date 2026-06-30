@@ -1,0 +1,5 @@
+Python 3.10+
+Streamlit
+LangChain
+langchain-ollama
+python-dotenv

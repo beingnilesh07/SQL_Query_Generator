@@ -33,7 +33,7 @@ SQL-Query-Generator/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SQL-Query-Generator.git
+git clone https://github.com/beingnilesh07/SQL_Query_Generator
 cd SQL-Query-Generator
 ```
 
